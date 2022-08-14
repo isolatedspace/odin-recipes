@@ -16,3 +16,18 @@
     font-style: italic;
 }
 
+h3 {
+    font-family: monospace, sans-serif;
+}
+
+.ingredients {
+    font-size: 20px;
+}
+
+.method {
+    font-size: 20px;
+}
+
+#ingredients-title{
+    font-size: 34px;
+}
